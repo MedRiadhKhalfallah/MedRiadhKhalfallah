@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SOFRECOM TUNISIE
+- 🔭 I’m currently working on <b>SOFRECOM TUNISIE</b>
 - 🌱 I’m currently learning Laravel & Angular
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
