@@ -11,6 +11,6 @@
 - 📫 How to reach me: 
     <ul>
     <li>Linkdin :  <a href="https://www.linkedin.com/in/khalfallah-mohamed-riadh/">KHALFALLAH Mohamed Riadh</a></li>
-    <li>Mail :  <a href="mailto:med.riadh.kh@gmail.com">med.riadh.kh@gmail.com</a></li>
-    <li>Phone :  <a href="tel:26678826">26 678 826</a></li>
+    <li>Mail :  <a href="mailto:med.riadh.khalfallah@gmail.com">med.riadh.khalfallah@gmail.com</a></li>
+    <li>Phone :  <a href="tel:+21626678826">+216 26 678 826</a></li>
     </ul>
